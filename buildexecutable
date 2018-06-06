@@ -1,4 +1,5 @@
 docker stop helloworld
 docker rm helloworld
 docker build -t hello-world /home/asyed/dockerdemo/cicd/
-docker run -d --name hellowworld -p 80:80 -v //home/asyed/dockerdemo/scr/:/var/www/html hello-world
+docker run -d --name hellowworld -v /home/asyed/dockerdemo/scr/:/var/www/html cec8f2824db2
+
