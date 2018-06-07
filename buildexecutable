@@ -1,3 +1,3 @@
-docker build -t hello-world2 /home/asyed/dockerdemo/cicd/
+docker build -t hello-world1 /home/asyed/dockerdemo/cicd/
 docker run -d --name helloworld1 -v /home/asyed/dockerdemo/scr/:/var/www/html cec8f2824db2
 
