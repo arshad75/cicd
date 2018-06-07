@@ -1,5 +1,5 @@
 	<?php
-	$welcome = "Hellow World 8";
+	$welcome = "Hellow World 1";
 	echo $Welcome;
 	?>
 
