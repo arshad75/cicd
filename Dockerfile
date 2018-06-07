@@ -1,2 +1,2 @@
-FROM php:7.1-apache
+FROM alpine:latest
 EXPOSE 80 
